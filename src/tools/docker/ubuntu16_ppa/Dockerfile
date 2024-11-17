@@ -1,6 +1,6 @@
 # currently published as pivotaldata/gpdb5:latest
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 EXPOSE 5432
 
