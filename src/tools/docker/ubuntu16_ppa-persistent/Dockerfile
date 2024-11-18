@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 EXPOSE 5432
 
 ADD container_init.sh /container_init.sh
